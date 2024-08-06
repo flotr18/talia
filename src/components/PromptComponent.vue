@@ -6,9 +6,9 @@
     Dropdown button
   </button>
   <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="#">Action</a></li>
-    <li><a class="dropdown-item" href="#">Another action</a></li>
-    <li><a class="dropdown-item" href="#">Something else here</a></li>
+    <li><a class="dropdown-item" href="#">ChatGPT</a></li>
+    <li><a class="dropdown-item" href="#">Gemini</a></li>
+    <li><a class="dropdown-item" href="#">Mistral</a></li>
   </ul>
 </div>
     </div>
