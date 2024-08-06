@@ -3,5 +3,7 @@
 </script>
 
 <template>
-  <div></div>
+  <div>
+    Hello my name is Jimmy
+  </div>
 </template>
