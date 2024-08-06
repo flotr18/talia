@@ -1,12 +1,16 @@
 <template>
-  <div></div>
+  <div>
+    
+  </div>
 </template>
 
 <script>
   export default {
     name: 'PromptComponent',
     data() {
-      return {}
+      return {
+        message : ''
+      }
     },
     computed: {},
     mounted() {},
